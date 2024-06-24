@@ -1,4 +1,3 @@
-Python Auto-Clicker
 Python Auto-Clicker is a simple application that allows you to automate mouse clicks at specific intervals. It provides a graphical interface for easy control of the clicking behavior.
 
 Features
